@@ -6,7 +6,7 @@ I'm Lyth, a 14 years old web developer from Australia.
 - 👥 Core team member at [DivGram](https://discord.gg/X5KGK7GxM6)
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, HTML, Pyton
+- 👨‍💻 JavaScript, PHP, HTML, Python
 - ⚙️ React, Node.js
 - 👁️ CSS
 - 💽 MySQL, SQL
