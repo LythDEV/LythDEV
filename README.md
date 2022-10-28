@@ -1,9 +1,9 @@
 ## Hey! 👋
-I'm Lyth, a 14 years old web developer from Australia.
+I'm Lyth, a 14 year old web developer from Australia.
 
-- 🧭 Founder of [AstroHaven](https://discord.gg/pmCbTV5rUx)
+- 🧭 Founder of [AstroHaven](https://discord.gg/Tn5c2sez7J)
 
-- 👥 Core team member at [DivGram](https://discord.gg/X5KGK7GxM6)
+- 👥 Manager at [DivGram](https://discord.gg/X5KGK7GxM6)
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, HTML, Python
